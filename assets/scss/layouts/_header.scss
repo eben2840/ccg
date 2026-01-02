@@ -41,8 +41,39 @@
         }
     }
 
-    .header-menu {
+    // Desktop navigation styles
+    nav {
+        .header-menu {
+            .header-item {
+                .header-link {
+                    position: relative;
+                    padding: 8px 16px;
+                    border-radius: 25px;
+                    transition: all 0.3s ease;
+                    
+                    .animate-spin {
+                        transition: 0.5s;
+                        opacity: 0;
+                        width: 0;
+                    }
 
+                    &:hover,
+                    &.active {
+                        background-color: rgba(255, 255, 255, 0.1);
+                        
+                        .animate-spin {
+                            opacity: 1;
+                            width: 20px;
+                            margin-inline-end: 5px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    // Mobile dropdown menu styles
+    .header-menu {
         .header-item {
             .header-link {
                 .animate-spin {

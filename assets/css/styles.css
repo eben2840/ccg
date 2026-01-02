@@ -16790,3 +16790,53 @@ ul {
   color: var(--bs-dark);
   background-color: var(--bs-white);
 }/*# sourceMappingURL=styles.css.map */
+/* Custom Header Navigation Styles */
+@media (min-width: 992px) {
+  .header nav .header-menu .header-item .header-link {
+    position: relative;
+    padding: 8px 16px;
+    border-radius: 25px;
+    transition: all 0.3s ease;
+  }
+  
+  .header nav .header-menu .header-item .header-link .animate-spin {
+    transition: 0.5s;
+    opacity: 0;
+    width: 0;
+  }
+  
+  .header nav .header-menu .header-item .header-link:hover,
+  .header nav .header-menu .header-item .header-link.active {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  .header nav .header-menu .header-item .header-link:hover .animate-spin,
+  .header nav .header-menu .header-item .header-link.active .animate-spin {
+    opacity: 1;
+    width: 20px;
+    margin-inline-end: 5px;
+  }
+}
+
+/* Ensure proper spacing for desktop navigation */
+@media (min-width: 992px) {
+  .header .header-wrapper {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header nav {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .header nav .header-menu {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+}
