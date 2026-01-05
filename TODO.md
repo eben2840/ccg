@@ -9,7 +9,7 @@
 - [ ] 4. html/engineering-construction.html
 - [ ] 5. html/financial-services.html
 - [ ] 6. html/healthcare.html
-- [ ] 7. html/infrastructure.html
+- [ ] 7. html/Infrastructure.html
 - [ ] 8. html/logistics.html
 
 ### Service Pages (9 pages to create)
