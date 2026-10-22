@@ -445,7 +445,7 @@
         <div class="d-flex flex-column gap-4 pb-8 position-relative z-1 text-center">
          
           <div class="d-flex justify-content-center" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-            <h2 class="mb-0 fs-15 text-white lh-1">COASTLINE CITADEL GROUP</h2>
+            <h2 class="mb-0 fs-15 text-white lh-1" data-cms="hero_label">COASTLINE CITADEL GROUP</h2>
             <!-- <a href="javascript:void(0)" class="p-1 ps-7 bg-primary rounded-pill">
               <span class="bg-white round-52 rounded-circle d-flex align-items-center justify-content-center">
                 <iconify-icon icon="lucide:arrow-up-right" class="fs-8 text-dark"></iconify-icon>
@@ -456,9 +456,7 @@
             <div class="col-xl-8">
               <div class="d-flex flex-column align-items-center gap-4" data-aos="fade-up" data-aos-delay="100"
                 data-aos-duration="1000">
-                <p class="mb-0 text-white fs-6 text-opacity-70">At Coastline Citadel Group
-                  <!-- <img src="../assets/images/svgs/primary-leaf.svg" alt="" class="img-fluid animate-spin"> -->
-                  we are a next-generation consulting firm dedicated to helping organizations thrive in an increasingly complex and rapidly evolving world. </p>
+                <p class="mb-0 text-white fs-6 text-opacity-70" data-cms="hero_text">At Coastline Citadel Group we are a next-generation consulting firm dedicated to helping organizations thrive in an increasingly complex and rapidly evolving world.</p>
               </div>
             </div>
           </div>
@@ -1553,5 +1551,18 @@
   <script src="../assets/js/custom.js"></script>
   <!-- solar icons -->
   <script src="https://cdn.jsdelivr.net/npm/iconify-icon@1.0.8/dist/iconify-icon.min.js"></script>
+
+  <script>
+    fetch('../content/home.json')
+      .then(response => response.ok ? response.json() : Promise.reject())
+      .then(content => {
+        document.querySelectorAll('[data-cms]').forEach(element => {
+          const key = element.dataset.cms;
+          if (typeof content[key] === 'string') element.textContent = content[key];
+        });
+      })
+      .catch(() => {});
+  </script>
+
 </body>
 </html>
