@@ -4,14 +4,13 @@ media:
 content:
   - name: site
     label: Site Content
-    path: content
+    path: content/home.json
     type: file
-    filename: home.json
     format: json
     fields:
-      - name: hero_title
-        label: Homepage Title
+      - name: hero_label
+        label: Homepage Label
         type: string
       - name: hero_text
-        label: Homepage Text
+        label: Homepage Introductory Text
         type: text
