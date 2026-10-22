@@ -1,0 +1,17 @@
+media:
+  input: assets/images
+  output: assets/images
+content:
+  - name: site
+    label: Site Content
+    path: content
+    type: file
+    filename: home.json
+    format: json
+    fields:
+      - name: hero_title
+        label: Homepage Title
+        type: string
+      - name: hero_text
+        label: Homepage Text
+        type: text
