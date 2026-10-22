@@ -2,15 +2,189 @@ media:
   input: assets/images
   output: assets/images
 content:
-  - name: site
-    label: Site Content
-    path: content/home.json
-    type: file
-    format: json
-    fields:
-      - name: hero_label
-        label: Homepage Label
-        type: string
-      - name: hero_text
-        label: Homepage Introductory Text
-        type: text
+  - name: main_pages
+    label: Main Pages
+    type: group
+    items:
+      - name: home
+        label: Home
+        type: file
+        path: html/index.html
+        format: raw
+      - name: about
+        label: About Us
+        type: file
+        path: html/about-us.html
+        format: raw
+      - name: insights
+        label: Insights
+        type: file
+        path: html/insight.html
+        format: raw
+      - name: blog
+        label: Blog
+        type: file
+        path: html/blog.html
+        format: raw
+      - name: blog_detail
+        label: Blog Detail
+        type: file
+        path: html/blog-detail.html
+        format: raw
+      - name: projects
+        label: Projects
+        type: file
+        path: html/projects.html
+        format: raw
+      - name: project_detail
+        label: Project Detail
+        type: file
+        path: html/projects-detail.html
+        format: raw
+      - name: careers
+        label: Careers
+        type: file
+        path: html/careers.html
+        format: raw
+      - name: contact
+        label: Contact
+        type: file
+        path: html/contact.html
+        format: raw
+      - name: contact_copy
+        label: Contact Copy
+        type: file
+        path: html/contact copy.html
+        format: raw
+      - name: privacy
+        label: Privacy Policy
+        type: file
+        path: html/privacy-policy.html
+        format: raw
+      - name: terms
+        label: Terms and Conditions
+        type: file
+        path: html/terms-and-conditions.html
+        format: raw
+      - name: sign_in
+        label: Sign In
+        type: file
+        path: html/sign-in.html
+        format: raw
+      - name: sign_up
+        label: Sign Up
+        type: file
+        path: html/sign-up.html
+        format: raw
+  - name: industries
+    label: Industry Pages
+    type: group
+    items:
+      - name: agriculture
+        label: Agriculture
+        type: file
+        path: html/agriculture.html
+        format: raw
+      - name: consumer_goods
+        label: Consumer Packaged Goods
+        type: file
+        path: html/consumer-packaged-goods.html
+        format: raw
+      - name: education
+        label: Education
+        type: file
+        path: html/education.html
+        format: raw
+      - name: engineering
+        label: Engineering, Construction & Building Materials
+        type: file
+        path: html/engineering-construction.html
+        format: raw
+      - name: financial_services
+        label: Financial Services
+        type: file
+        path: html/financial-services.html
+        format: raw
+      - name: healthcare
+        label: Healthcare
+        type: file
+        path: html/healthcare.html
+        format: raw
+      - name: infrastructure
+        label: Infrastructure
+        type: file
+        path: html/Infrastructure.html
+        format: raw
+      - name: logistics
+        label: Logistics
+        type: file
+        path: html/logistics.html
+        format: raw
+      - name: p_and_p
+        label: P&P
+        type: file
+        path: html/p&p.html
+        format: raw
+  - name: services
+    label: Service Pages
+    type: group
+    items:
+      - name: audits
+        label: Audits
+        type: file
+        path: html/audit.html
+        format: raw
+      - name: strategy_finance
+        label: Strategy & Corporate Finance
+        type: file
+        path: html/strategy-corporate-finance.html
+        format: raw
+      - name: risk_resilience
+        label: Risk & Resilience
+        type: file
+        path: html/risk-resilience.html
+        format: raw
+      - name: business_transformation
+        label: Business Transformation
+        type: file
+        path: html/business-transformation.html
+        format: raw
+      - name: ai_implementation
+        label: AI Implementation
+        type: file
+        path: html/ai-implementation.html
+        format: raw
+      - name: people_performance
+        label: People & Organizational Performance
+        type: file
+        path: html/people-organizational-performance.html
+        format: raw
+      - name: technology
+        label: Technology
+        type: file
+        path: html/technology.html
+        format: raw
+      - name: sustainability
+        label: Sustainability
+        type: file
+        path: html/sustainability.html
+        format: raw
+      - name: implementation
+        label: Implementation
+        type: file
+        path: html/implementation.html
+        format: raw
+      - name: operations
+        label: Operations
+        type: file
+        path: html/operations.html
+        format: raw
+  - name: system_pages
+    label: Other Pages
+    type: group
+    items:
+      - name: not_found
+        label: 404 Page
+        type: file
+        path: html/404.html
+        format: raw
