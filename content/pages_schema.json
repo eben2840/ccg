@@ -375,6 +375,96 @@
         "name": "shared_link_1mwqm7s",
         "label": "Site link destination — People & Organizational Performance",
         "type": "string"
+      },
+      {
+        "name": "shared_image_16cgxax",
+        "label": "Site image — logo",
+        "type": "image"
+      },
+      {
+        "name": "shared_alt_jg3kps",
+        "label": "Image alternative text — logo",
+        "type": "string"
+      },
+      {
+        "name": "shared_image_1jjo6ko",
+        "label": "Site image — logo",
+        "type": "image"
+      },
+      {
+        "name": "shared_alt_1vivwcj",
+        "label": "Image alternative text — logo",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_s0roif",
+        "label": "Site-wide text — Projects",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_1cx8k08",
+        "label": "Site link destination — Blog",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1jdup01",
+        "label": "Site-wide text — Blog",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_13wasqa",
+        "label": "Site-wide text — Docs",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_ove5mn",
+        "label": "Site link destination — Sign In",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1oyb10o",
+        "label": "Site-wide text — Sign In",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_x22p91",
+        "label": "Site link destination — Sign Up",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1m606ha",
+        "label": "Site-wide text — Sign Up",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_1xcuzjr",
+        "label": "Site link destination — +1-212-456-7890",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_rlaf7w",
+        "label": "Site-wide text — +1-212-456-7890",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_1vxe2tm",
+        "label": "Site link destination — info@ccitadelgroup.com",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_12t7e6g",
+        "label": "Site-wide text — info@ccitadelgroup.com",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_ghd1dc",
+        "label": "Site-wide text — info@ccitadelgroup.com",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_10kk4t3",
+        "label": "Site-wide text — 30 N Gould St, suite R Sheridan, WY 82801",
+        "type": "string"
       }
     ],
     "data": {
@@ -452,7 +542,25 @@
       "shared_text_1oncmp0": "Twitter",
       "shared_text_v25kvp": "© 2026 Coastline Citadel Group",
       "shared_text_d4yke7": "LinkedIn",
-      "shared_link_1mwqm7s": "people-performance.html"
+      "shared_link_1mwqm7s": "people-performance.html",
+      "shared_image_16cgxax": "/assets/images/logos/logo-white.svg",
+      "shared_alt_jg3kps": "logo",
+      "shared_image_1jjo6ko": "/assets/images/logos/logo-dark.svg",
+      "shared_alt_1vivwcj": "logo",
+      "shared_text_s0roif": "Projects",
+      "shared_link_1cx8k08": "blog.html",
+      "shared_text_1jdup01": "Blog",
+      "shared_text_13wasqa": "Docs",
+      "shared_link_ove5mn": "sign-in.html",
+      "shared_text_1oyb10o": "Sign\r\n                      In",
+      "shared_link_x22p91": "sign-up.html",
+      "shared_text_1m606ha": "Sign\r\n                      Up",
+      "shared_link_1xcuzjr": "tel:+1-212-456-7890",
+      "shared_text_rlaf7w": "+1-212-456-7890",
+      "shared_link_1vxe2tm": "mailto:info@ccitadelgroup.com",
+      "shared_text_12t7e6g": "info@ccitadelgroup.com",
+      "shared_text_ghd1dc": "\r\n                info@ccitadelgroup.com\r\n              ",
+      "shared_text_10kk4t3": "\r\n                30 N Gould St, suite R Sheridan, WY 82801\r\n              "
     }
   },
   "pages": {
@@ -2576,6 +2684,424 @@
           "name": "text_006",
           "label": "Paragraph — 1. Digital Transformation Strategy At Coastline Citadel…",
           "type": "rich-text"
+        }
+      ]
+    },
+    "sustainability": {
+      "label": "Sustainability",
+      "path": "html/sustainability.html",
+      "group": "services",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Creating sustainable business practices that drive long…",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Sustainability",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Text — 01",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Text — Risk & Resilience",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Heading 2 — Sustainability Overview",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — 1. ESG Strategy and Framework Development At Coastline …",
+          "type": "rich-text"
+        }
+      ]
+    },
+    "implementation": {
+      "label": "Implementation",
+      "path": "html/implementation.html",
+      "group": "services",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Delivering strategic initiatives through expert program…",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Implementation",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Text — 01",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Text — Risk & Resilience",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Heading 2 — Implementation Overview",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — 1. Program and Project Management At Coastline Citadel …",
+          "type": "rich-text"
+        }
+      ]
+    },
+    "operations": {
+      "label": "Operations",
+      "path": "html/operations.html",
+      "group": "services",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Optimizing business operations to drive efficiency, qua…",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Operations",
+          "type": "string"
+        },
+        {
+          "name": "image_001",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_001",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_002",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_002",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_003",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_003",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_004",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_004",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_005",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_005",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_006",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_006",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_007",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_007",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_008",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_008",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_009",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_009",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_010",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_010",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_011",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_011",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_012",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_012",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_013",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_013",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_014",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_014",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Text — 01",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Text — Operations",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Heading 2 — Operations Overview",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — 1. Operational Excellence and Process Optimization At C…",
+          "type": "rich-text"
+        }
+      ]
+    },
+    "blog": {
+      "label": "Blog",
+      "path": "html/blog.html",
+      "group": "main",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "background_001",
+          "label": "Background image — blog-banner.jpg",
+          "type": "image"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Looking to strengthen your security posture? Explore ou…",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Blog",
+          "type": "string"
+        },
+        {
+          "name": "link_001",
+          "label": "Link destination — javascript:void(0)",
+          "type": "string"
+        },
+        {
+          "name": "link_002",
+          "label": "Link destination — blog-detail.html",
+          "type": "string"
+        },
+        {
+          "name": "image_001",
+          "label": "Image — resources",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_001",
+          "label": "Image alternative text — resources",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Paragraph — Dec 24, 2025",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Heading 4 — Designing an ISO 27001 control set that works",
+          "type": "string"
+        },
+        {
+          "name": "link_003",
+          "label": "Link destination — blog-detail.html",
+          "type": "string"
+        },
+        {
+          "name": "image_002",
+          "label": "Image — resources",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_002",
+          "label": "Image alternative text — resources",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Paragraph — Dec 24, 2025",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Heading 4 — Building resilient SOC operations",
+          "type": "string"
+        },
+        {
+          "name": "link_004",
+          "label": "Link destination — blog-detail.html",
+          "type": "string"
+        },
+        {
+          "name": "image_003",
+          "label": "Image — resources",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_003",
+          "label": "Image alternative text — resources",
+          "type": "string"
+        },
+        {
+          "name": "text_007",
+          "label": "Paragraph — Dec 24, 2025",
+          "type": "string"
+        },
+        {
+          "name": "text_008",
+          "label": "Heading 4 — Recognised for security leadership",
+          "type": "string"
+        },
+        {
+          "name": "link_005",
+          "label": "Link destination — blog-detail.html",
+          "type": "string"
+        },
+        {
+          "name": "image_004",
+          "label": "Image — resources",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_004",
+          "label": "Image alternative text — resources",
+          "type": "string"
+        },
+        {
+          "name": "text_009",
+          "label": "Paragraph — Dec 24, 2025",
+          "type": "string"
+        },
+        {
+          "name": "text_010",
+          "label": "Heading 4 — Modern threat trends boards should understand",
+          "type": "string"
         }
       ]
     }
