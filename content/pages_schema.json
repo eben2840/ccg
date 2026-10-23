@@ -370,6 +370,11 @@
         "name": "shared_text_d4yke7",
         "label": "Site-wide text — LinkedIn",
         "type": "string"
+      },
+      {
+        "name": "shared_link_1mwqm7s",
+        "label": "Site link destination — People & Organizational Performance",
+        "type": "string"
       }
     ],
     "data": {
@@ -446,7 +451,8 @@
       "shared_text_4bnti3": "Instagram",
       "shared_text_1oncmp0": "Twitter",
       "shared_text_v25kvp": "© 2026 Coastline Citadel Group",
-      "shared_text_d4yke7": "LinkedIn"
+      "shared_text_d4yke7": "LinkedIn",
+      "shared_link_1mwqm7s": "people-performance.html"
     }
   },
   "pages": {
@@ -1608,6 +1614,204 @@
           "name": "image_alt_014",
           "label": "Image alternative text — partners",
           "type": "string"
+        }
+      ]
+    },
+    "agriculture": {
+      "label": "Agriculture",
+      "path": "html/agriculture.html",
+      "group": "industries",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Transforming agriculture through strategic innovation a…",
+          "type": "text"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Agriculture",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Heading 2 — Agriculture Industry Practice",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Paragraph — The agriculture industry stands at a critical crossroad…",
+          "type": "text"
+        },
+        {
+          "name": "text_005",
+          "label": "Paragraph — Our deep expertise spans the entire agricultural value …",
+          "type": "text"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — Whether you are seeking to modernize agricultural opera…",
+          "type": "text"
+        }
+      ]
+    },
+    "consumer-packaged-goods": {
+      "label": "Consumer Packaged Goods",
+      "path": "html/consumer-packaged-goods.html",
+      "group": "industries",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Driving growth and innovation in the consumer products …",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — CPG",
+          "type": "string"
+        },
+        {
+          "name": "link_001",
+          "label": "Link destination — contact.html",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Heading 2 — CPG Industry Practice",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Paragraph — The Consumer Packaged Goods (CPG) industry is undergoin…",
+          "type": "text"
+        },
+        {
+          "name": "text_005",
+          "label": "Paragraph — Our deep expertise spans all categories of consumer pro…",
+          "type": "text"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — Whether you are seeking to accelerate growth through in…",
+          "type": "text"
+        }
+      ]
+    },
+    "education": {
+      "label": "Education",
+      "path": "html/education.html",
+      "group": "industries",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Transforming education through strategic innovation and…",
+          "type": "text"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Education",
+          "type": "string"
+        },
+        {
+          "name": "link_001",
+          "label": "Link destination — contact.html",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Heading 2 — Education Industry Practice",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Paragraph — The education industry stands at a critical crossroads,…",
+          "type": "text"
+        },
+        {
+          "name": "text_005",
+          "label": "Paragraph — Our deep expertise spans the entire education value cha…",
+          "type": "text"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — Whether you are seeking to modernize educational delive…",
+          "type": "text"
+        }
+      ]
+    },
+    "engineering-construction": {
+      "label": "Engineering, Construction & Building Materials",
+      "path": "html/engineering-construction.html",
+      "group": "industries",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Building sustainable infrastructure and creating lastin…",
+          "type": "text"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — ECB Materials",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Heading 2 — Engineering, Construction & Building Materials Practice",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Paragraph — The engineering, construction, and building materials i…",
+          "type": "text"
+        },
+        {
+          "name": "text_005",
+          "label": "Paragraph — Our deep expertise spans the entire construction value …",
+          "type": "text"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — Whether you are seeking to accelerate digital transform…",
+          "type": "text"
         }
       ]
     }
