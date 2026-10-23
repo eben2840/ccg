@@ -1,1 +1,1622 @@
-{}
+{
+  "shared": {
+    "fields": [
+      {
+        "name": "shared_link_1uk6a76",
+        "label": "Site link destination — index.html",
+        "type": "string"
+      },
+      {
+        "name": "shared_image_za41ys",
+        "label": "Site image — logo",
+        "type": "image"
+      },
+      {
+        "name": "shared_alt_1m4a8m7",
+        "label": "Image alternative text — logo",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_n0mxf2",
+        "label": "Site-wide text — Home",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_14yr1ro",
+        "label": "Site link destination — About",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_onrqou",
+        "label": "Site-wide text — About",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_1kwjrky",
+        "label": "Site link destination — Insights",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_qoqync",
+        "label": "Site-wide text — Insights",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_ak280i",
+        "label": "Site link destination — Industries",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_7q2tef",
+        "label": "Site-wide text — Industries",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_2l9n81",
+        "label": "Site link destination — Agriculture",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_172tnwi",
+        "label": "Site-wide text — Agriculture",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_zgp54u",
+        "label": "Site link destination — Consumer Packaged Goods",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_afj8h",
+        "label": "Site-wide text — Consumer Packaged Goods",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_syxvdw",
+        "label": "Site link destination — Education",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_69obp1",
+        "label": "Site-wide text — Education",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_1n62rrx",
+        "label": "Site link destination — Engineering, Construction & Building Materials",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_ok7gpj",
+        "label": "Site-wide text — Engineering, Construction & Building Materials",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_13jkgym",
+        "label": "Site link destination — Financial Services",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1ewz2t8",
+        "label": "Site-wide text — Financial Services",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_l8kaal",
+        "label": "Site link destination — Healthcare",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1o9hunq",
+        "label": "Site-wide text — Healthcare",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_1s4huv9",
+        "label": "Site link destination — Infrastructure",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1icrwoe",
+        "label": "Site-wide text — Infrastructure",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_1qsubt3",
+        "label": "Site link destination — Logistics",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_146p7sg",
+        "label": "Site-wide text — Logistics",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_nvvuc8",
+        "label": "Site link destination — P&P",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1bmy69t",
+        "label": "Site-wide text — P&P",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_rnv8lx",
+        "label": "Site-wide text — Services",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_18liklr",
+        "label": "Site link destination — Audits",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_m7fvfl",
+        "label": "Site-wide text — Audits",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_ehy9x0",
+        "label": "Site link destination — Strategy & Corporate Finance",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1gez8vr",
+        "label": "Site-wide text — Strategy & Corporate Finance",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_1mowij",
+        "label": "Site link destination — Risk & Resilience",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_qoinzx",
+        "label": "Site-wide text — Risk & Resilience",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_1fs4hxe",
+        "label": "Site link destination — Business Transformation",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_13bv464",
+        "label": "Site-wide text — Business Transformation",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_i843rv",
+        "label": "Site link destination — AI Implementation",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1i2r9fz",
+        "label": "Site-wide text — AI Implementation",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_u8edaj",
+        "label": "Site link destination — People & Organizational Performance",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1no34z8",
+        "label": "Site-wide text — People & Organizational Performance",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_1qxibfi",
+        "label": "Site link destination — Technology",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_x5izb1",
+        "label": "Site-wide text — Technology",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_f6iw47",
+        "label": "Site link destination — Sustainability",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_16qiyg0",
+        "label": "Site-wide text — Sustainability",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_vmno12",
+        "label": "Site link destination — Implementation",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1j6x47b",
+        "label": "Site-wide text — Implementation",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_1kanppa",
+        "label": "Site link destination — Operations",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_ei0t6l",
+        "label": "Site-wide text — Operations",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_1m21dkv",
+        "label": "Site link destination — Careers",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_2o6tyw",
+        "label": "Site-wide text — Careers",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_13l1iiy",
+        "label": "Site link destination — Contact",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_w3fq2r",
+        "label": "Site-wide text — Contact",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_7q5wa",
+        "label": "Site-wide text — Menu",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_lh87z",
+        "label": "Site link destination — Industries",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_1xvs72p",
+        "label": "Site link destination — Services",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_15c5osv",
+        "label": "Site-wide text — Technology",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1w7fw5c",
+        "label": "Site-wide text — Sustainability",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1ahoaq7",
+        "label": "Site-wide text — Operations",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_qph77d",
+        "label": "Site-wide text — From Idea to Impact.",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1ap96pi",
+        "label": "Site-wide text — Research-Driven, Data-Informed, Human-Centered",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_blnnh8",
+        "label": "Site-wide text — Collaborative Partnership at Every Step",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_aczbte",
+        "label": "Site-wide text — A Tailored Approach for Each Unique Challenge",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_48rqca",
+        "label": "Site-wide text — Execution Excellence and Sustained Results.",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_3d5ifu",
+        "label": "Site-wide text — Innovation as a Core Discipline.",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1ydysh2",
+        "label": "Site-wide text — Confidentiality, Discretion, and Trust.",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1h9svkr",
+        "label": "Site-wide text — How to connect to CCG?",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_ztntfp",
+        "label": "Site link destination — info@ccitadelgroup.com",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_bgyu2m",
+        "label": "Site-wide text — info@ccitadelgroup.com",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_1hlqz9k",
+        "label": "Site link destination — 30 N Gould St, suite R Sheridan, WY 82801",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1gu8l6p",
+        "label": "Site-wide text — 30 N Gould St, suite R Sheridan, WY 82801",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_uwlp2a",
+        "label": "Site link destination — Services",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_1rlno3a",
+        "label": "Site link destination — How we Work",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1qkujt4",
+        "label": "Site-wide text — How we Work",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_d1ume7",
+        "label": "Site-wide text — Linkedin",
+        "type": "string"
+      },
+      {
+        "name": "shared_link_6vjzux",
+        "label": "Site link destination — Facebook",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1bs8hg1",
+        "label": "Site-wide text — Facebook",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_4bnti3",
+        "label": "Site-wide text — Instagram",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1oncmp0",
+        "label": "Site-wide text — Twitter",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_v25kvp",
+        "label": "Site-wide text — © 2026 Coastline Citadel Group",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_d4yke7",
+        "label": "Site-wide text — LinkedIn",
+        "type": "string"
+      }
+    ],
+    "data": {
+      "shared_link_1uk6a76": "index.html",
+      "shared_image_za41ys": "/assets/images/logos/Coastline-Citadel-Group-white.png",
+      "shared_alt_1m4a8m7": "logo",
+      "shared_text_n0mxf2": "Home",
+      "shared_link_14yr1ro": "about-us.html",
+      "shared_text_onrqou": "About",
+      "shared_link_1kwjrky": "insight.html",
+      "shared_text_qoqync": "Insights",
+      "shared_link_ak280i": "#",
+      "shared_text_7q2tef": "Industries",
+      "shared_link_2l9n81": "agriculture.html",
+      "shared_text_172tnwi": "Agriculture",
+      "shared_link_zgp54u": "consumer-packaged-goods.html",
+      "shared_text_afj8h": "Consumer Packaged Goods",
+      "shared_link_syxvdw": "education.html",
+      "shared_text_69obp1": "Education",
+      "shared_link_1n62rrx": "engineering-construction.html",
+      "shared_text_ok7gpj": "Engineering, Construction & Building Materials",
+      "shared_link_13jkgym": "financial-services.html",
+      "shared_text_1ewz2t8": "Financial Services",
+      "shared_link_l8kaal": "healthcare.html",
+      "shared_text_1o9hunq": "Healthcare",
+      "shared_link_1s4huv9": "Infrastructure.html",
+      "shared_text_1icrwoe": "Infrastructure",
+      "shared_link_1qsubt3": "logistics.html",
+      "shared_text_146p7sg": "Logistics",
+      "shared_link_nvvuc8": "p&p.html",
+      "shared_text_1bmy69t": "P&P",
+      "shared_text_rnv8lx": "Services",
+      "shared_link_18liklr": "audit.html",
+      "shared_text_m7fvfl": "Audits",
+      "shared_link_ehy9x0": "strategy-corporate-finance.html",
+      "shared_text_1gez8vr": "Strategy & Corporate Finance",
+      "shared_link_1mowij": "risk-resilience.html",
+      "shared_text_qoinzx": "Risk & Resilience",
+      "shared_link_1fs4hxe": "business-transformation.html",
+      "shared_text_13bv464": "Business Transformation",
+      "shared_link_i843rv": "ai-implementation.html",
+      "shared_text_1i2r9fz": "AI Implementation",
+      "shared_link_u8edaj": "people-organizational-performance.html",
+      "shared_text_1no34z8": "People & Organizational Performance",
+      "shared_link_1qxibfi": "technology.html",
+      "shared_text_x5izb1": "Technology ",
+      "shared_link_f6iw47": "sustainability.html",
+      "shared_text_16qiyg0": "Sustainability ",
+      "shared_link_vmno12": "implementation.html",
+      "shared_text_1j6x47b": "Implementation",
+      "shared_link_1kanppa": "operations.html",
+      "shared_text_ei0t6l": "Operations ",
+      "shared_link_1m21dkv": "careers.html",
+      "shared_text_2o6tyw": "Careers",
+      "shared_link_13l1iiy": "contact.html",
+      "shared_text_w3fq2r": "Contact",
+      "shared_text_7q5wa": "Menu",
+      "shared_link_lh87z": "#industriesMenu",
+      "shared_link_1xvs72p": "#servicesMenu",
+      "shared_text_15c5osv": "Technology",
+      "shared_text_1w7fw5c": "Sustainability",
+      "shared_text_1ahoaq7": "Operations",
+      "shared_text_qph77d": "\n                      From Idea to Impact.\n                    ",
+      "shared_text_1ap96pi": "\n                      Research-Driven, Data-Informed, Human-Centered                    \n                    ",
+      "shared_text_blnnh8": "\n                      Collaborative Partnership at Every Step\n                    ",
+      "shared_text_aczbte": "\n                      A Tailored Approach for Each Unique Challenge\n                    ",
+      "shared_text_48rqca": "\n                      Execution Excellence and Sustained Results.\n                    ",
+      "shared_text_3d5ifu": "\n                      Innovation as a Core Discipline.\n                    ",
+      "shared_text_1ydysh2": "\n                      Confidentiality, Discretion, and Trust.\n                    ",
+      "shared_text_1h9svkr": "How to connect to CCG?",
+      "shared_link_ztntfp": "",
+      "shared_text_bgyu2m": "\n                info@ccitadelgroup.com\n              ",
+      "shared_link_1hlqz9k": "https://maps.app.goo.gl/vLQvYJbg2VozJMNP8",
+      "shared_text_1gu8l6p": "\n                30 N Gould St, suite R Sheridan, WY 82801\n              ",
+      "shared_link_uwlp2a": "projects.html ",
+      "shared_link_1rlno3a": "projects.html",
+      "shared_text_1qkujt4": "How we Work",
+      "shared_text_d1ume7": "Linkedin",
+      "shared_link_6vjzux": "#!",
+      "shared_text_1bs8hg1": "Facebook",
+      "shared_text_4bnti3": "Instagram",
+      "shared_text_1oncmp0": "Twitter",
+      "shared_text_v25kvp": "© 2026 Coastline Citadel Group",
+      "shared_text_d4yke7": "LinkedIn"
+    }
+  },
+  "pages": {
+    "home": {
+      "label": "Home",
+      "path": "html/index.html",
+      "group": "main",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "text_001",
+          "label": "Heading 2 — COASTLINE CITADEL GROUP",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Paragraph — At Coastline Citadel Group we are a next-generation con…",
+          "type": "text"
+        },
+        {
+          "name": "text_003",
+          "label": "Text — 01",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Text — About CCG",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Heading 2 — At Coastline Citadel Group",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — We combine deep analytical rigor, strategic foresight, …",
+          "type": "text"
+        },
+        {
+          "name": "text_007",
+          "label": "Heading 2 — 40 K+",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_008",
+          "label": "Paragraph — Endpoints and identities protected across client estates",
+          "type": "string"
+        },
+        {
+          "name": "text_009",
+          "label": "Heading 2 — 238 +",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_010",
+          "label": "Paragraph — ISO, cyber, and risk professionals supporting our clients",
+          "type": "string"
+        },
+        {
+          "name": "text_011",
+          "label": "Heading 2 — 3 M+",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_012",
+          "label": "Paragraph — Security events monitored and analysed each year",
+          "type": "string"
+        },
+        {
+          "name": "link_001",
+          "label": "Link destination — about-us.html",
+          "type": "string"
+        },
+        {
+          "name": "text_013",
+          "label": "Text — More About Us",
+          "type": "string"
+        },
+        {
+          "name": "text_014",
+          "label": "Text — 02",
+          "type": "string"
+        },
+        {
+          "name": "text_015",
+          "label": "Text — Industries",
+          "type": "string"
+        },
+        {
+          "name": "text_016",
+          "label": "Heading 2 — Let’s Turn Your Biggest Opportunities Into Your Next Bi…",
+          "type": "string"
+        },
+        {
+          "name": "text_017",
+          "label": "Paragraph — At Coastline Citadel Group, our core values form the fo…",
+          "type": "text"
+        },
+        {
+          "name": "link_002",
+          "label": "Link destination — Link",
+          "type": "string"
+        },
+        {
+          "name": "text_018",
+          "label": "Heading 3 — Global SaaS ISO 27001 Readiness",
+          "type": "string"
+        },
+        {
+          "name": "text_019",
+          "label": "Text — ISO 27001",
+          "type": "string"
+        },
+        {
+          "name": "text_020",
+          "label": "Text — Risk assessment",
+          "type": "string"
+        },
+        {
+          "name": "link_003",
+          "label": "Link destination — Link",
+          "type": "string"
+        },
+        {
+          "name": "text_021",
+          "label": "Heading 3 — Regional Bank Zero-Trust Uplift",
+          "type": "string"
+        },
+        {
+          "name": "text_022",
+          "label": "Text — Zero-trust",
+          "type": "string"
+        },
+        {
+          "name": "text_023",
+          "label": "Text — Network security",
+          "type": "string"
+        },
+        {
+          "name": "link_004",
+          "label": "Link destination — Link",
+          "type": "string"
+        },
+        {
+          "name": "text_024",
+          "label": "Heading 3 — Manufacturing OT Security Programme",
+          "type": "string"
+        },
+        {
+          "name": "text_025",
+          "label": "Text — OT security",
+          "type": "string"
+        },
+        {
+          "name": "text_026",
+          "label": "Text — Threat modelling",
+          "type": "string"
+        },
+        {
+          "name": "link_005",
+          "label": "Link destination — Link",
+          "type": "string"
+        },
+        {
+          "name": "text_027",
+          "label": "Heading 3 — Healthcare Data Protection Framework",
+          "type": "string"
+        },
+        {
+          "name": "text_028",
+          "label": "Text — Data protection",
+          "type": "string"
+        },
+        {
+          "name": "text_029",
+          "label": "Text — Compliance",
+          "type": "string"
+        },
+        {
+          "name": "link_006",
+          "label": "Link destination — Link",
+          "type": "string"
+        },
+        {
+          "name": "text_030",
+          "label": "Heading 3 — Global Policy & Control Framework",
+          "type": "string"
+        },
+        {
+          "name": "text_031",
+          "label": "Text — Governance",
+          "type": "string"
+        },
+        {
+          "name": "text_032",
+          "label": "Text — Controls design",
+          "type": "string"
+        },
+        {
+          "name": "link_007",
+          "label": "Link destination — Link",
+          "type": "string"
+        },
+        {
+          "name": "text_033",
+          "label": "Heading 3 — SOC & Threat Monitoring Uplift",
+          "type": "string"
+        },
+        {
+          "name": "text_034",
+          "label": "Text — SOC operations",
+          "type": "string"
+        },
+        {
+          "name": "text_035",
+          "label": "Text — Threat detection",
+          "type": "string"
+        },
+        {
+          "name": "text_036",
+          "label": "Text — 03",
+          "type": "string"
+        },
+        {
+          "name": "text_037",
+          "label": "Text — Insights",
+          "type": "string"
+        },
+        {
+          "name": "text_038",
+          "label": "Heading 2 — Why Coastline Citadel Group",
+          "type": "string"
+        },
+        {
+          "name": "text_039",
+          "label": "Paragraph — Our approach is defined by curiosity, integrity, and an…",
+          "type": "text"
+        },
+        {
+          "name": "text_040",
+          "label": "Paragraph — We approach every engagement as a strategic partnership…",
+          "type": "text"
+        },
+        {
+          "name": "text_041",
+          "label": "Heading 2 — 98.6%",
+          "type": "string"
+        },
+        {
+          "name": "text_042",
+          "label": "Paragraph — Customer satisfaction",
+          "type": "string"
+        },
+        {
+          "name": "text_043",
+          "label": "Heading 2 — 238+",
+          "type": "string"
+        },
+        {
+          "name": "text_044",
+          "label": "Paragraph — Brands served worldwide",
+          "type": "string"
+        },
+        {
+          "name": "link_008",
+          "label": "Link destination — index.html",
+          "type": "string"
+        },
+        {
+          "name": "image_001",
+          "label": "Image — logo",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_001",
+          "label": "Image alternative text — logo",
+          "type": "string"
+        },
+        {
+          "name": "text_045",
+          "label": "Text — 04",
+          "type": "string"
+        },
+        {
+          "name": "text_046",
+          "label": "Text — Testimonial",
+          "type": "string"
+        },
+        {
+          "name": "text_047",
+          "label": "Heading 2 — Stories from clients",
+          "type": "string"
+        },
+        {
+          "name": "text_048",
+          "label": "Paragraph — Join a growing, innovation-driven firm where your indiv…",
+          "type": "text"
+        },
+        {
+          "name": "text_049",
+          "label": "Paragraph — Hear from them",
+          "type": "string"
+        },
+        {
+          "name": "text_050",
+          "label": "Heading 4 — Our ISO 27001 certification was delivered on time, with…",
+          "type": "string"
+        },
+        {
+          "name": "text_051",
+          "label": "Paragraph — Hear from them",
+          "type": "string"
+        },
+        {
+          "name": "text_052",
+          "label": "Heading 4 — From concept to execution, they delivered outstanding r…",
+          "type": "string"
+        },
+        {
+          "name": "text_053",
+          "label": "Heading 6 — 4.0",
+          "type": "string"
+        },
+        {
+          "name": "image_002",
+          "label": "Image — quete",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_002",
+          "label": "Image alternative text — quete",
+          "type": "string"
+        },
+        {
+          "name": "text_054",
+          "label": "Paragraph — Hear from them",
+          "type": "string"
+        },
+        {
+          "name": "text_055",
+          "label": "Heading 4 — Super smooth process with incredible results. highly re…",
+          "type": "string"
+        },
+        {
+          "name": "text_056",
+          "label": "Paragraph — More than 320 trusted partners & clients",
+          "type": "string"
+        },
+        {
+          "name": "image_003",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_003",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_004",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_004",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_005",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_005",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_006",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_006",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_007",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_007",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_008",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_008",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_009",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_009",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_010",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_010",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_011",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_011",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_012",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_012",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_013",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_013",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_014",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_014",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_015",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_015",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_016",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_016",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "text_057",
+          "label": "Text — 05",
+          "type": "string"
+        },
+        {
+          "name": "text_058",
+          "label": "Text — FAQs",
+          "type": "string"
+        },
+        {
+          "name": "text_059",
+          "label": "Heading 2 — How We Work",
+          "type": "string"
+        },
+        {
+          "name": "text_060",
+          "label": "Paragraph — At Coastline Citadel Group, We produce forward-thinking…",
+          "type": "text"
+        },
+        {
+          "name": "text_061",
+          "label": "Text — We believe that strategy only matters when it transl…",
+          "type": "text"
+        },
+        {
+          "name": "text_062",
+          "label": "Text — Every engagement begins with comprehensive discovery…",
+          "type": "text"
+        },
+        {
+          "name": "text_063",
+          "label": "Text — We do not consult from a distance. We embed ourselve…",
+          "type": "text"
+        },
+        {
+          "name": "text_064",
+          "label": "Text — We reject generic solutions. Each client receives st…",
+          "type": "text"
+        },
+        {
+          "name": "text_065",
+          "label": "Text — Our work continues beyond the delivery of recommenda…",
+          "type": "text"
+        },
+        {
+          "name": "text_066",
+          "label": "Text — We approach every challenge with a future-ready pers…",
+          "type": "text"
+        },
+        {
+          "name": "text_067",
+          "label": "Text — Our clients rely on us with their most sensitive str…",
+          "type": "text"
+        }
+      ]
+    },
+    "about-us": {
+      "label": "About Us",
+      "path": "html/about-us.html",
+      "group": "main",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "background_001",
+          "label": "Background image — photo-1579548122080-c35fd6820ecb.avif",
+          "type": "image"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — We design robust security programmes that protect criti…",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — About us",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Heading 2 — Coastline Citadel Group",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Paragraph — At Coastline Citadel Group, we are a next-generation co…",
+          "type": "text"
+        },
+        {
+          "name": "text_005",
+          "label": "Paragraph — Our capabilities extend across the most vital dimension…",
+          "type": "text"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — Our approach is defined by curiosity, integrity, and an…",
+          "type": "text"
+        },
+        {
+          "name": "text_007",
+          "label": "Heading 2 — 45 +",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_008",
+          "label": "Heading 4 — Presence in global markets",
+          "type": "string"
+        },
+        {
+          "name": "text_009",
+          "label": "Paragraph — Expanding reach across international regions with local…",
+          "type": "string"
+        },
+        {
+          "name": "text_010",
+          "label": "Heading 2 — 15 M",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_011",
+          "label": "Heading 4 — In security investments",
+          "type": "string"
+        },
+        {
+          "name": "text_012",
+          "label": "Paragraph — Supporting clients to direct investment into the contro…",
+          "type": "string"
+        },
+        {
+          "name": "text_013",
+          "label": "Heading 2 — 158 +",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_014",
+          "label": "Heading 4 — Trusted security partnerships",
+          "type": "string"
+        },
+        {
+          "name": "text_015",
+          "label": "Paragraph — Helping organisations navigate evolving threats and reg…",
+          "type": "string"
+        },
+        {
+          "name": "text_016",
+          "label": "Heading 4 — ISO 27001 & 22301",
+          "type": "string"
+        },
+        {
+          "name": "text_017",
+          "label": "Heading 4 — Governance, Risk & Compliance",
+          "type": "string"
+        },
+        {
+          "name": "text_018",
+          "label": "Heading 4 — Security Architecture",
+          "type": "string"
+        },
+        {
+          "name": "text_019",
+          "label": "Heading 4 — Security Operations & SOC",
+          "type": "string"
+        },
+        {
+          "name": "text_020",
+          "label": "Heading 4 — Cloud & Application Security",
+          "type": "string"
+        },
+        {
+          "name": "text_021",
+          "label": "Heading 4 — Incident Response & Resilience",
+          "type": "string"
+        },
+        {
+          "name": "text_022",
+          "label": "Heading 4 — Third-Party Risk",
+          "type": "string"
+        },
+        {
+          "name": "text_023",
+          "label": "Heading 4 — Third-Party Risk",
+          "type": "string"
+        },
+        {
+          "name": "text_024",
+          "label": "Heading 4 — Identity & Access Management",
+          "type": "string"
+        },
+        {
+          "name": "text_025",
+          "label": "Heading 4 — Application Security",
+          "type": "string"
+        },
+        {
+          "name": "text_026",
+          "label": "Heading 4 — Data Protection",
+          "type": "string"
+        },
+        {
+          "name": "text_027",
+          "label": "Heading 4 — Threat Detection & Response",
+          "type": "string"
+        },
+        {
+          "name": "text_028",
+          "label": "Heading 4 — Security Culture & Training",
+          "type": "string"
+        },
+        {
+          "name": "text_029",
+          "label": "Heading 4 — ISO 27001 & 22301",
+          "type": "string"
+        },
+        {
+          "name": "text_030",
+          "label": "Heading 4 — Governance, Risk & Compliance",
+          "type": "string"
+        },
+        {
+          "name": "text_031",
+          "label": "Heading 4 — Security Architecture",
+          "type": "string"
+        },
+        {
+          "name": "text_032",
+          "label": "Heading 4 — Security Operations & SOC",
+          "type": "string"
+        },
+        {
+          "name": "text_033",
+          "label": "Heading 4 — Cloud & Application Security",
+          "type": "string"
+        },
+        {
+          "name": "text_034",
+          "label": "Heading 4 — Incident Response & Resilience",
+          "type": "string"
+        },
+        {
+          "name": "text_035",
+          "label": "Heading 4 — Third-Party Risk",
+          "type": "string"
+        },
+        {
+          "name": "text_036",
+          "label": "Heading 4 — Third-Party Risk",
+          "type": "string"
+        },
+        {
+          "name": "text_037",
+          "label": "Heading 4 — Identity & Access Management",
+          "type": "string"
+        },
+        {
+          "name": "text_038",
+          "label": "Heading 4 — Application Security",
+          "type": "string"
+        },
+        {
+          "name": "text_039",
+          "label": "Heading 4 — Data Protection",
+          "type": "string"
+        },
+        {
+          "name": "text_040",
+          "label": "Heading 4 — Threat Detection & Response",
+          "type": "string"
+        },
+        {
+          "name": "text_041",
+          "label": "Heading 4 — Security Culture & Training",
+          "type": "string"
+        },
+        {
+          "name": "text_042",
+          "label": "Heading 4 — Photography",
+          "type": "string"
+        },
+        {
+          "name": "text_043",
+          "label": "Heading 4 — ISO 27001 & 22301",
+          "type": "string"
+        },
+        {
+          "name": "text_044",
+          "label": "Heading 4 — Governance, Risk & Compliance",
+          "type": "string"
+        },
+        {
+          "name": "text_045",
+          "label": "Heading 4 — Security Architecture",
+          "type": "string"
+        },
+        {
+          "name": "text_046",
+          "label": "Heading 4 — Security Operations & SOC",
+          "type": "string"
+        },
+        {
+          "name": "text_047",
+          "label": "Heading 4 — Cloud & Application Security",
+          "type": "string"
+        },
+        {
+          "name": "text_048",
+          "label": "Heading 4 — Incident Response & Resilience",
+          "type": "string"
+        },
+        {
+          "name": "text_049",
+          "label": "Heading 4 — Third-Party Risk",
+          "type": "string"
+        },
+        {
+          "name": "text_050",
+          "label": "Heading 4 — Third-Party Risk",
+          "type": "string"
+        },
+        {
+          "name": "text_051",
+          "label": "Heading 4 — Identity & Access Management",
+          "type": "string"
+        },
+        {
+          "name": "text_052",
+          "label": "Heading 4 — Application Security",
+          "type": "string"
+        },
+        {
+          "name": "text_053",
+          "label": "Heading 4 — Data Protection",
+          "type": "string"
+        },
+        {
+          "name": "text_054",
+          "label": "Heading 4 — Threat Detection & Response",
+          "type": "string"
+        },
+        {
+          "name": "text_055",
+          "label": "Heading 4 — Security Culture & Training",
+          "type": "string"
+        },
+        {
+          "name": "text_056",
+          "label": "Heading 4 — Branding",
+          "type": "string"
+        },
+        {
+          "name": "text_057",
+          "label": "Heading 4 — ISO 27001 & 22301",
+          "type": "string"
+        },
+        {
+          "name": "text_058",
+          "label": "Heading 4 — Governance, Risk & Compliance",
+          "type": "string"
+        },
+        {
+          "name": "text_059",
+          "label": "Heading 4 — Security Architecture",
+          "type": "string"
+        },
+        {
+          "name": "text_060",
+          "label": "Heading 4 — Security Operations & SOC",
+          "type": "string"
+        },
+        {
+          "name": "text_061",
+          "label": "Heading 4 — Cloud & Application Security",
+          "type": "string"
+        },
+        {
+          "name": "text_062",
+          "label": "Heading 4 — Incident Response & Resilience",
+          "type": "string"
+        },
+        {
+          "name": "text_063",
+          "label": "Heading 4 — Third-Party Risk",
+          "type": "string"
+        },
+        {
+          "name": "text_064",
+          "label": "Heading 4 — Third-Party Risk",
+          "type": "string"
+        },
+        {
+          "name": "text_065",
+          "label": "Heading 4 — Identity & Access Management",
+          "type": "string"
+        },
+        {
+          "name": "text_066",
+          "label": "Heading 4 — Application Security",
+          "type": "string"
+        },
+        {
+          "name": "text_067",
+          "label": "Heading 4 — Data Protection",
+          "type": "string"
+        },
+        {
+          "name": "text_068",
+          "label": "Heading 4 — Threat Detection & Response",
+          "type": "string"
+        },
+        {
+          "name": "text_069",
+          "label": "Heading 4 — Security Culture & Training",
+          "type": "string"
+        }
+      ]
+    },
+    "insights": {
+      "label": "Insights",
+      "path": "html/insight.html",
+      "group": "main",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "background_001",
+          "label": "Background image — privacy-policy-banner.jpg",
+          "type": "image"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — We are exploring the future of digital transformation a…",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Insights Into CCG",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Paragraph — At Coastline Citadel Group, insights represent far more…",
+          "type": "text"
+        },
+        {
+          "name": "text_004",
+          "label": "Heading 4 — 1. Definitions",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Paragraph — Our insights are developed through deep engagement with…",
+          "type": "text"
+        },
+        {
+          "name": "text_006",
+          "label": "Heading 4 — 2. License and use rights",
+          "type": "string"
+        },
+        {
+          "name": "text_007",
+          "label": "Paragraph — We believe that strong ideas must translate into measur…",
+          "type": "text"
+        },
+        {
+          "name": "text_008",
+          "label": "Paragraph — Our thought leadership reflects the same values that gu…",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_009",
+          "label": "Paragraph — More than 320 trusted partners & clients",
+          "type": "string"
+        },
+        {
+          "name": "image_001",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_001",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_002",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_002",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_003",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_003",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_004",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_004",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_005",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_005",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_006",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_006",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_007",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_007",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_008",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_008",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_009",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_009",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_010",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_010",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_011",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_011",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_012",
+          "label": "Image — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_alt_012",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_013",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_013",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_014",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_014",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        }
+      ]
+    }
+  }
+}
