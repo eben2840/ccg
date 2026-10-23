@@ -3104,6 +3104,369 @@
           "type": "string"
         }
       ]
+    },
+    "blog-detail": {
+      "label": "Blog Article",
+      "path": "html/blog-detail.html",
+      "group": "main",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "background_001",
+          "label": "Background image — blog-detail-banner.jpg",
+          "type": "image"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — In a threat landscape that never stands still , securit…",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — An ISO 27001 journey that changes how a business operates",
+          "type": "string"
+        },
+        {
+          "name": "link_001",
+          "label": "Link destination — javascript:void(0)",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Heading 2 — Scroll to read",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Paragraph — At Coastline Citadel Group, we see ISO 27001 as more th…",
+          "type": "text"
+        },
+        {
+          "name": "image_001",
+          "label": "Image — blog-detail",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_001",
+          "label": "Image alternative text — blog-detail",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Paragraph — A successful ISO 27001 programme is built in stages: cl…",
+          "type": "text"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — Key steps we follow with clients:",
+          "type": "string"
+        },
+        {
+          "name": "text_007",
+          "label": "Heading 4 — 1. Define your objectives",
+          "type": "string"
+        },
+        {
+          "name": "text_008",
+          "label": "Paragraph — We start by aligning ISO 27001 with business outcomes: …",
+          "type": "text"
+        },
+        {
+          "name": "text_009",
+          "label": "Heading 4 — 2. Understand current risk",
+          "type": "string"
+        },
+        {
+          "name": "text_010",
+          "label": "Paragraph — We perform risk assessments and control reviews to unde…",
+          "type": "text"
+        },
+        {
+          "name": "text_011",
+          "label": "Heading 4 — 3. Execute with discipline",
+          "type": "string"
+        },
+        {
+          "name": "text_012",
+          "label": "Paragraph — With a clear roadmap, we support policy, process, and t…",
+          "type": "text"
+        }
+      ]
+    },
+    "careers": {
+      "label": "Careers",
+      "path": "html/careers.html",
+      "group": "main",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Our work continues beyond --> the delivery of recommend…",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Big challenges Bigger growth",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_003",
+          "label": "Text — 01",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Text — Careers",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Heading 2 — Where do you want to start?",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — The pace is demanding and expectations are high, but yo…",
+          "type": "text"
+        },
+        {
+          "name": "text_007",
+          "label": "Paragraph — Hear from them",
+          "type": "string"
+        },
+        {
+          "name": "text_008",
+          "label": "Heading 4 — Our ISO 27001 certification was delivered on time, with…",
+          "type": "string"
+        },
+        {
+          "name": "text_009",
+          "label": "Heading 5 — Albert Flores",
+          "type": "string"
+        },
+        {
+          "name": "text_010",
+          "label": "Paragraph — MasterMe Inc",
+          "type": "string"
+        },
+        {
+          "name": "text_011",
+          "label": "Paragraph — Hear from them",
+          "type": "string"
+        },
+        {
+          "name": "text_012",
+          "label": "Heading 4 — From concept to execution, they delivered outstanding r…",
+          "type": "string"
+        },
+        {
+          "name": "text_013",
+          "label": "Heading 6 — 4.0",
+          "type": "string"
+        },
+        {
+          "name": "text_014",
+          "label": "Heading 5 — Robert Fox",
+          "type": "string"
+        },
+        {
+          "name": "text_015",
+          "label": "Paragraph — UJH Industries",
+          "type": "string"
+        },
+        {
+          "name": "image_001",
+          "label": "Image — quete",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_001",
+          "label": "Image alternative text — quete",
+          "type": "string"
+        },
+        {
+          "name": "text_016",
+          "label": "Paragraph — Hear from them",
+          "type": "string"
+        },
+        {
+          "name": "text_017",
+          "label": "Heading 4 — Super smooth process with incredible results. highly re…",
+          "type": "string"
+        },
+        {
+          "name": "text_018",
+          "label": "Heading 5 — Jenny Wilson",
+          "type": "string"
+        },
+        {
+          "name": "text_019",
+          "label": "Paragraph — Pizza JaT",
+          "type": "string"
+        }
+      ]
+    },
+    "contact": {
+      "label": "Contact",
+      "path": "html/contact.html",
+      "group": "main",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "background_001",
+          "label": "Background image — photo-1485827404703-89b55fcc595e.avif",
+          "type": "image"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Ready to strengthen your security posture? Discuss your…",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Contact Us",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Text — 01",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Text — Contact us",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Heading 2 — Get in touch",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — Share your current security challenges, regulatory driv…",
+          "type": "text"
+        },
+        {
+          "name": "placeholder_001",
+          "label": "Form placeholder — Name",
+          "type": "string"
+        },
+        {
+          "name": "placeholder_002",
+          "label": "Form placeholder — Email",
+          "type": "string"
+        },
+        {
+          "name": "placeholder_003",
+          "label": "Form placeholder — Tell us about your project",
+          "type": "string"
+        },
+        {
+          "name": "text_007",
+          "label": "Button label — Submit message",
+          "type": "rich-text"
+        }
+      ]
+    },
+    "contact-copy": {
+      "label": "Contact (Copy)",
+      "path": "html/contact copy.html",
+      "group": "main",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "background_001",
+          "label": "Background image — photo-1485827404703-89b55fcc595e.avif",
+          "type": "image"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Ready to strengthen your security posture? Reach out to…",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Contact",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Text — 10",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Text — Contact us",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Heading 2 — Get in touch",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — Share your current security challenges, regulatory driv…",
+          "type": "text"
+        },
+        {
+          "name": "placeholder_001",
+          "label": "Form placeholder — Name",
+          "type": "string"
+        },
+        {
+          "name": "placeholder_002",
+          "label": "Form placeholder — Email",
+          "type": "string"
+        },
+        {
+          "name": "placeholder_003",
+          "label": "Form placeholder — Tell us about your project",
+          "type": "string"
+        },
+        {
+          "name": "text_007",
+          "label": "Button label — Submit message",
+          "type": "rich-text"
+        }
+      ]
     }
   }
 }
