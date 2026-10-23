@@ -297,41 +297,6 @@
         "type": "string"
       },
       {
-        "name": "shared_text_qph77d",
-        "label": "Site-wide text — From Idea to Impact.",
-        "type": "string"
-      },
-      {
-        "name": "shared_text_1ap96pi",
-        "label": "Site-wide text — Research-Driven, Data-Informed, Human-Centered",
-        "type": "string"
-      },
-      {
-        "name": "shared_text_blnnh8",
-        "label": "Site-wide text — Collaborative Partnership at Every Step",
-        "type": "string"
-      },
-      {
-        "name": "shared_text_aczbte",
-        "label": "Site-wide text — A Tailored Approach for Each Unique Challenge",
-        "type": "string"
-      },
-      {
-        "name": "shared_text_48rqca",
-        "label": "Site-wide text — Execution Excellence and Sustained Results.",
-        "type": "string"
-      },
-      {
-        "name": "shared_text_3d5ifu",
-        "label": "Site-wide text — Innovation as a Core Discipline.",
-        "type": "string"
-      },
-      {
-        "name": "shared_text_1ydysh2",
-        "label": "Site-wide text — Confidentiality, Discretion, and Trust.",
-        "type": "string"
-      },
-      {
         "name": "shared_text_1h9svkr",
         "label": "Site-wide text — How to connect to CCG?",
         "type": "string"
@@ -405,11 +370,6 @@
         "name": "shared_text_d4yke7",
         "label": "Site-wide text — LinkedIn",
         "type": "string"
-      },
-      {
-        "name": "shared_link_1mwqm7s",
-        "label": "Site link destination — People & Organizational Performance",
-        "type": "string"
       }
     ],
     "data": {
@@ -472,13 +432,6 @@
       "shared_text_15c5osv": "Technology",
       "shared_text_1w7fw5c": "Sustainability",
       "shared_text_1ahoaq7": "Operations",
-      "shared_text_qph77d": "\n                      From Idea to Impact.\n                    ",
-      "shared_text_1ap96pi": "\n                      Research-Driven, Data-Informed, Human-Centered                    \n                    ",
-      "shared_text_blnnh8": "\n                      Collaborative Partnership at Every Step\n                    ",
-      "shared_text_aczbte": "\n                      A Tailored Approach for Each Unique Challenge\n                    ",
-      "shared_text_48rqca": "\n                      Execution Excellence and Sustained Results.\n                    ",
-      "shared_text_3d5ifu": "\n                      Innovation as a Core Discipline.\n                    ",
-      "shared_text_1ydysh2": "\n                      Confidentiality, Discretion, and Trust.\n                    ",
       "shared_text_1h9svkr": "How to connect to CCG?",
       "shared_link_ztntfp": "",
       "shared_text_bgyu2m": "\n                info@ccitadelgroup.com\n              ",
@@ -493,8 +446,7 @@
       "shared_text_4bnti3": "Instagram",
       "shared_text_1oncmp0": "Twitter",
       "shared_text_v25kvp": "© 2026 Coastline Citadel Group",
-      "shared_text_d4yke7": "LinkedIn",
-      "shared_link_1mwqm7s": "people-performance.html"
+      "shared_text_d4yke7": "LinkedIn"
     }
   },
   "pages": {
@@ -605,7 +557,7 @@
         },
         {
           "name": "link_002",
-          "label": "Link destination — Link",
+          "label": "Link destination — ",
           "type": "string"
         },
         {
@@ -625,7 +577,7 @@
         },
         {
           "name": "link_003",
-          "label": "Link destination — Link",
+          "label": "Link destination — ",
           "type": "string"
         },
         {
@@ -645,7 +597,7 @@
         },
         {
           "name": "link_004",
-          "label": "Link destination — Link",
+          "label": "Link destination — ",
           "type": "string"
         },
         {
@@ -665,7 +617,7 @@
         },
         {
           "name": "link_005",
-          "label": "Link destination — Link",
+          "label": "Link destination — ",
           "type": "string"
         },
         {
@@ -685,7 +637,7 @@
         },
         {
           "name": "link_006",
-          "label": "Link destination — Link",
+          "label": "Link destination — ",
           "type": "string"
         },
         {
@@ -705,7 +657,7 @@
         },
         {
           "name": "link_007",
-          "label": "Link destination — Link",
+          "label": "Link destination — ",
           "type": "string"
         },
         {
@@ -1015,36 +967,71 @@
         },
         {
           "name": "text_061",
+          "label": "Heading 2 — From Idea to Impact.",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_062",
           "label": "Text — We believe that strategy only matters when it transl…",
           "type": "text"
         },
         {
-          "name": "text_062",
+          "name": "text_063",
+          "label": "Heading 2 — Research-Driven, Data-Informed, Human-Centered",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_064",
           "label": "Text — Every engagement begins with comprehensive discovery…",
           "type": "text"
         },
         {
-          "name": "text_063",
+          "name": "text_065",
+          "label": "Heading 2 — Collaborative Partnership at Every Step",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_066",
           "label": "Text — We do not consult from a distance. We embed ourselve…",
           "type": "text"
         },
         {
-          "name": "text_064",
+          "name": "text_067",
+          "label": "Heading 2 — A Tailored Approach for Each Unique Challenge",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_068",
           "label": "Text — We reject generic solutions. Each client receives st…",
           "type": "text"
         },
         {
-          "name": "text_065",
+          "name": "text_069",
+          "label": "Heading 2 — Execution Excellence and Sustained Results.",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_070",
           "label": "Text — Our work continues beyond the delivery of recommenda…",
           "type": "text"
         },
         {
-          "name": "text_066",
+          "name": "text_071",
+          "label": "Heading 2 — Innovation as a Core Discipline.",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_072",
           "label": "Text — We approach every challenge with a future-ready pers…",
           "type": "text"
         },
         {
-          "name": "text_067",
+          "name": "text_073",
+          "label": "Heading 2 — Confidentiality, Discretion, and Trust.",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_074",
           "label": "Text — Our clients rely on us with their most sensitive str…",
           "type": "text"
         }
@@ -1621,204 +1608,6 @@
           "name": "image_alt_014",
           "label": "Image alternative text — partners",
           "type": "string"
-        }
-      ]
-    },
-    "agriculture": {
-      "label": "Agriculture",
-      "path": "html/agriculture.html",
-      "group": "industries",
-      "fields": [
-        {
-          "name": "page_title",
-          "label": "Page title",
-          "type": "string"
-        },
-        {
-          "name": "meta_description",
-          "label": "Search engine description",
-          "type": "text"
-        },
-        {
-          "name": "text_001",
-          "label": "Paragraph — Transforming agriculture through strategic innovation a…",
-          "type": "text"
-        },
-        {
-          "name": "text_002",
-          "label": "Heading 1 — Agriculture",
-          "type": "string"
-        },
-        {
-          "name": "text_003",
-          "label": "Heading 2 — Agriculture Industry Practice",
-          "type": "string"
-        },
-        {
-          "name": "text_004",
-          "label": "Paragraph — The agriculture industry stands at a critical crossroad…",
-          "type": "text"
-        },
-        {
-          "name": "text_005",
-          "label": "Paragraph — Our deep expertise spans the entire agricultural value …",
-          "type": "text"
-        },
-        {
-          "name": "text_006",
-          "label": "Paragraph — Whether you are seeking to modernize agricultural opera…",
-          "type": "text"
-        }
-      ]
-    },
-    "consumer-packaged-goods": {
-      "label": "Consumer Packaged Goods",
-      "path": "html/consumer-packaged-goods.html",
-      "group": "industries",
-      "fields": [
-        {
-          "name": "page_title",
-          "label": "Page title",
-          "type": "string"
-        },
-        {
-          "name": "meta_description",
-          "label": "Search engine description",
-          "type": "text"
-        },
-        {
-          "name": "text_001",
-          "label": "Paragraph — Driving growth and innovation in the consumer products …",
-          "type": "string"
-        },
-        {
-          "name": "text_002",
-          "label": "Heading 1 — CPG",
-          "type": "string"
-        },
-        {
-          "name": "link_001",
-          "label": "Link destination — contact.html",
-          "type": "string"
-        },
-        {
-          "name": "text_003",
-          "label": "Heading 2 — CPG Industry Practice",
-          "type": "string"
-        },
-        {
-          "name": "text_004",
-          "label": "Paragraph — The Consumer Packaged Goods (CPG) industry is undergoin…",
-          "type": "text"
-        },
-        {
-          "name": "text_005",
-          "label": "Paragraph — Our deep expertise spans all categories of consumer pro…",
-          "type": "text"
-        },
-        {
-          "name": "text_006",
-          "label": "Paragraph — Whether you are seeking to accelerate growth through in…",
-          "type": "text"
-        }
-      ]
-    },
-    "education": {
-      "label": "Education",
-      "path": "html/education.html",
-      "group": "industries",
-      "fields": [
-        {
-          "name": "page_title",
-          "label": "Page title",
-          "type": "string"
-        },
-        {
-          "name": "meta_description",
-          "label": "Search engine description",
-          "type": "text"
-        },
-        {
-          "name": "text_001",
-          "label": "Paragraph — Transforming education through strategic innovation and…",
-          "type": "text"
-        },
-        {
-          "name": "text_002",
-          "label": "Heading 1 — Education",
-          "type": "string"
-        },
-        {
-          "name": "link_001",
-          "label": "Link destination — contact.html",
-          "type": "string"
-        },
-        {
-          "name": "text_003",
-          "label": "Heading 2 — Education Industry Practice",
-          "type": "string"
-        },
-        {
-          "name": "text_004",
-          "label": "Paragraph — The education industry stands at a critical crossroads,…",
-          "type": "text"
-        },
-        {
-          "name": "text_005",
-          "label": "Paragraph — Our deep expertise spans the entire education value cha…",
-          "type": "text"
-        },
-        {
-          "name": "text_006",
-          "label": "Paragraph — Whether you are seeking to modernize educational delive…",
-          "type": "text"
-        }
-      ]
-    },
-    "engineering-construction": {
-      "label": "Engineering, Construction & Building Materials",
-      "path": "html/engineering-construction.html",
-      "group": "industries",
-      "fields": [
-        {
-          "name": "page_title",
-          "label": "Page title",
-          "type": "string"
-        },
-        {
-          "name": "meta_description",
-          "label": "Search engine description",
-          "type": "text"
-        },
-        {
-          "name": "text_001",
-          "label": "Paragraph — Building sustainable infrastructure and creating lastin…",
-          "type": "text"
-        },
-        {
-          "name": "text_002",
-          "label": "Heading 1 — ECB Materials",
-          "type": "string"
-        },
-        {
-          "name": "text_003",
-          "label": "Heading 2 — Engineering, Construction & Building Materials Practice",
-          "type": "string"
-        },
-        {
-          "name": "text_004",
-          "label": "Paragraph — The engineering, construction, and building materials i…",
-          "type": "text"
-        },
-        {
-          "name": "text_005",
-          "label": "Paragraph — Our deep expertise spans the entire construction value …",
-          "type": "text"
-        },
-        {
-          "name": "text_006",
-          "label": "Paragraph — Whether you are seeking to accelerate digital transform…",
-          "type": "text"
         }
       ]
     }
