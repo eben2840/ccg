@@ -465,6 +465,21 @@
         "name": "shared_text_10kk4t3",
         "label": "Site-wide text — 30 N Gould St, suite R Sheridan, WY 82801",
         "type": "string"
+      },
+      {
+        "name": "shared_text_1k6vuno",
+        "label": "Site-wide text — Packaging & Paper",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_1pftzp3",
+        "label": "Site-wide text — Our Services",
+        "type": "string"
+      },
+      {
+        "name": "shared_text_pdzq1p",
+        "label": "Site-wide text — About CCG",
+        "type": "string"
       }
     ],
     "data": {
@@ -560,7 +575,10 @@
       "shared_link_1vxe2tm": "mailto:info@ccitadelgroup.com",
       "shared_text_12t7e6g": "info@ccitadelgroup.com",
       "shared_text_ghd1dc": "\r\n                info@ccitadelgroup.com\r\n              ",
-      "shared_text_10kk4t3": "\r\n                30 N Gould St, suite R Sheridan, WY 82801\r\n              "
+      "shared_text_10kk4t3": "\r\n                30 N Gould St, suite R Sheridan, WY 82801\r\n              ",
+      "shared_text_1k6vuno": "Packaging & Paper",
+      "shared_text_1pftzp3": "Our Services",
+      "shared_text_pdzq1p": "About CCG"
     }
   },
   "pages": {
@@ -3464,6 +3482,744 @@
         {
           "name": "text_007",
           "label": "Button label — Submit message",
+          "type": "rich-text"
+        }
+      ]
+    },
+    "privacy-policy": {
+      "label": "Privacy Policy",
+      "path": "html/privacy-policy.html",
+      "group": "other",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "background_001",
+          "label": "Background image — privacy-policy-banner.jpg",
+          "type": "image"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Understand the Rules & Guidelines Before Using Our Serv…",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Privacy Policy",
+          "type": "string"
+        },
+        {
+          "name": "link_001",
+          "label": "Link destination — javascript:void(0)",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Heading 2 — Privacy Notice",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Paragraph — Coastline Citadel Group",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_005",
+          "label": "Paragraph — This privacy notice was last reviewed or revised on Jan…",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — We, Coastline Citadel Group, our subsidiaries, and affi…",
+          "type": "text"
+        },
+        {
+          "name": "text_007",
+          "label": "Heading 3 — 1. Data Controller",
+          "type": "string"
+        },
+        {
+          "name": "text_008",
+          "label": "Paragraph — When Coastline Citadel collects and processes your pers…",
+          "type": "text"
+        },
+        {
+          "name": "text_009",
+          "label": "Heading 3 — 2. How Do We Collect Your Personal Data?",
+          "type": "string"
+        },
+        {
+          "name": "text_010",
+          "label": "Paragraph — Coastline Citadel collects personal data during our bus…",
+          "type": "text"
+        },
+        {
+          "name": "text_011",
+          "label": "List item — Direct Interactions: When you register for newsletters,…",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_012",
+          "label": "List item — Automated Technologies: As you interact with our Sites,…",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_013",
+          "label": "List item — Third Parties: We may receive professional information …",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_014",
+          "label": "Heading 3 — 3. Why and How Are We Using Your Personal Data?",
+          "type": "string"
+        },
+        {
+          "name": "text_015",
+          "label": "Table heading — Purpose",
+          "type": "string"
+        },
+        {
+          "name": "text_016",
+          "label": "Table heading — Categories of Data",
+          "type": "string"
+        },
+        {
+          "name": "text_017",
+          "label": "Table heading — Legal Basis",
+          "type": "string"
+        },
+        {
+          "name": "text_018",
+          "label": "Table cell — Managing Relationships",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_019",
+          "label": "Table cell — Name, email, job title, company.",
+          "type": "string"
+        },
+        {
+          "name": "text_020",
+          "label": "Table cell — Legitimate interest in providing client services.",
+          "type": "string"
+        },
+        {
+          "name": "text_021",
+          "label": "Table cell — Newsletters & Alerts",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_022",
+          "label": "Table cell — Name, email, professional interests.",
+          "type": "string"
+        },
+        {
+          "name": "text_023",
+          "label": "Table cell — Consent or legitimate interest in marketing.",
+          "type": "string"
+        },
+        {
+          "name": "text_024",
+          "label": "Table cell — Conferences & Events",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_025",
+          "label": "Table cell — Contact details, dietary requirements, professional role.",
+          "type": "string"
+        },
+        {
+          "name": "text_026",
+          "label": "Table cell — Legitimate interest in event management; Consent for me…",
+          "type": "string"
+        },
+        {
+          "name": "text_027",
+          "label": "Table cell — Benchmarking & Analytics",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_028",
+          "label": "Table cell — Industry data, behavioral data, IP addresses.",
+          "type": "string"
+        },
+        {
+          "name": "text_029",
+          "label": "Table cell — Legitimate interest in improving our service offerings.",
+          "type": "string"
+        },
+        {
+          "name": "text_030",
+          "label": "Table cell — Legal compliance",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_031",
+          "label": "Table cell — As required by specific legal mandates.",
+          "type": "string"
+        },
+        {
+          "name": "text_032",
+          "label": "Table cell — Compliance with legal obligations.",
+          "type": "string"
+        },
+        {
+          "name": "text_033",
+          "label": "Heading 3 — 4. Who Has Access to Your Personal Data?",
+          "type": "string"
+        },
+        {
+          "name": "text_034",
+          "label": "Paragraph — Personal data may be transferred to Coastline Citadel e…",
+          "type": "text"
+        },
+        {
+          "name": "text_035",
+          "label": "Paragraph — We may disclose your information:",
+          "type": "string"
+        },
+        {
+          "name": "text_036",
+          "label": "List item — To our global subsidiaries and affiliates.",
+          "type": "string"
+        },
+        {
+          "name": "text_037",
+          "label": "List item — To service providers performing functions on our behalf…",
+          "type": "string"
+        },
+        {
+          "name": "text_038",
+          "label": "List item — If required by law, legal process, or to protect the vi…",
+          "type": "string"
+        },
+        {
+          "name": "text_039",
+          "label": "Heading 3 — 5. International Data Transfers",
+          "type": "string"
+        },
+        {
+          "name": "text_040",
+          "label": "Paragraph — As a global organization, personal data may be transfer…",
+          "type": "text"
+        },
+        {
+          "name": "text_041",
+          "label": "Heading 3 — 6. Security",
+          "type": "string"
+        },
+        {
+          "name": "text_042",
+          "label": "Paragraph — Coastline Citadel has implemented generally accepted st…",
+          "type": "text"
+        },
+        {
+          "name": "text_043",
+          "label": "Heading 3 — 7. Data Retention",
+          "type": "string"
+        },
+        {
+          "name": "text_044",
+          "label": "Paragraph — We keep your personal data only as long as necessary to…",
+          "type": "text"
+        },
+        {
+          "name": "text_045",
+          "label": "Heading 3 — 8. Your Data Protection Rights",
+          "type": "string"
+        },
+        {
+          "name": "text_046",
+          "label": "Paragraph — Depending on your location, you may have the following …",
+          "type": "string"
+        },
+        {
+          "name": "text_047",
+          "label": "List item — Access: Request a copy of the data we hold about you.",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_048",
+          "label": "List item — Correction: Request that we amend inaccurate or incompl…",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_049",
+          "label": "List item — Deletion: Request that we erase your personal data.",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_050",
+          "label": "List item — Withdraw Consent: Where processing is based on consent,…",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_051",
+          "label": "List item — Portability: Request the transfer of your data to anoth…",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_052",
+          "label": "Heading 3 — 9. Contact Us",
+          "type": "string"
+        },
+        {
+          "name": "text_053",
+          "label": "Paragraph — To exercise your rights or if you have questions about …",
+          "type": "text"
+        },
+        {
+          "name": "text_054",
+          "label": "List item — Email: privacy@ccitadelgroup.com",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_055",
+          "label": "List item — Address: Attn: 30 N Gould St, Sheridan, WY 82801, USA D…",
+          "type": "rich-text"
+        }
+      ]
+    },
+    "projects": {
+      "label": "Projects",
+      "path": "html/projects.html",
+      "group": "main",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "background_001",
+          "label": "Background image — photo-1581090464777-f3220bbe1b8b.avif",
+          "type": "image"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — A portfolio of security programmes , risk transformatio…",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — What We Do",
+          "type": "string"
+        },
+        {
+          "name": "link_001",
+          "label": "Link destination — javascript:void(0)",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Text — 02",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Text — Services",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Heading 2 — Integrity, Innovation, Resilience, Integration",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — Integrity Without Compromise We hold ourselves to the h…",
+          "type": "rich-text"
+        },
+        {
+          "name": "link_002",
+          "label": "Link destination — ",
+          "type": "string"
+        },
+        {
+          "name": "text_007",
+          "label": "Heading 3 — Business Building and Technology",
+          "type": "string"
+        },
+        {
+          "name": "text_008",
+          "label": "Text — ISO 27001",
+          "type": "string"
+        },
+        {
+          "name": "text_009",
+          "label": "Text — Risk assessment",
+          "type": "string"
+        },
+        {
+          "name": "link_003",
+          "label": "Link destination — ",
+          "type": "string"
+        },
+        {
+          "name": "text_010",
+          "label": "Heading 3 — Implementation & Transformation",
+          "type": "string"
+        },
+        {
+          "name": "text_011",
+          "label": "Text — Zero-trust",
+          "type": "string"
+        },
+        {
+          "name": "text_012",
+          "label": "Text — Network security",
+          "type": "string"
+        },
+        {
+          "name": "link_004",
+          "label": "Link destination — ",
+          "type": "string"
+        },
+        {
+          "name": "text_013",
+          "label": "Heading 3 — Operations & Audits",
+          "type": "string"
+        },
+        {
+          "name": "text_014",
+          "label": "Text — OT security",
+          "type": "string"
+        },
+        {
+          "name": "text_015",
+          "label": "Text — Threat modelling",
+          "type": "string"
+        },
+        {
+          "name": "link_005",
+          "label": "Link destination — ",
+          "type": "string"
+        },
+        {
+          "name": "text_016",
+          "label": "Heading 3 — Risk & Resilience",
+          "type": "string"
+        },
+        {
+          "name": "text_017",
+          "label": "Text — Data protection",
+          "type": "string"
+        },
+        {
+          "name": "text_018",
+          "label": "Text — Compliance",
+          "type": "string"
+        },
+        {
+          "name": "link_006",
+          "label": "Link destination — ",
+          "type": "string"
+        },
+        {
+          "name": "text_019",
+          "label": "Heading 3 — Strategy & Corporate Finance",
+          "type": "string"
+        },
+        {
+          "name": "text_020",
+          "label": "Text — Governance",
+          "type": "string"
+        },
+        {
+          "name": "text_021",
+          "label": "Text — Controls design",
+          "type": "string"
+        },
+        {
+          "name": "link_007",
+          "label": "Link destination — ",
+          "type": "string"
+        },
+        {
+          "name": "text_022",
+          "label": "Heading 3 — People & Organizational Performance",
+          "type": "string"
+        },
+        {
+          "name": "text_023",
+          "label": "Text — SOC operations",
+          "type": "string"
+        },
+        {
+          "name": "text_024",
+          "label": "Text — Threat detection",
+          "type": "string"
+        }
+      ]
+    },
+    "projects-detail": {
+      "label": "Project Details",
+      "path": "html/projects-detail.html",
+      "group": "main",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "background_001",
+          "label": "Background image — projects-detail-banner.jpg",
+          "type": "image"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — A view into how we operationalise security , reduce ris…",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — BioTrack LIMS",
+          "type": "string"
+        },
+        {
+          "name": "link_001",
+          "label": "Link destination — javascript:void(0)",
+          "type": "string"
+        },
+        {
+          "name": "link_002",
+          "label": "Link destination — projects.html",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Text — Back",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Paragraph — Scope of work",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Paragraph — ISO 27001 readiness, security architecture, SOC uplift",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — Industry",
+          "type": "string"
+        },
+        {
+          "name": "text_007",
+          "label": "Paragraph — Financial services",
+          "type": "string"
+        },
+        {
+          "name": "text_008",
+          "label": "Paragraph — Regulatory focus",
+          "type": "string"
+        },
+        {
+          "name": "text_009",
+          "label": "Paragraph — ISO 27001, SOC 2, PCI DSS",
+          "type": "string"
+        },
+        {
+          "name": "text_010",
+          "label": "Paragraph — Website",
+          "type": "string"
+        },
+        {
+          "name": "text_011",
+          "label": "Paragraph — www.coastlinecitadel.com",
+          "type": "string"
+        },
+        {
+          "name": "text_012",
+          "label": "Heading 2 — Description",
+          "type": "string"
+        },
+        {
+          "name": "text_013",
+          "label": "Paragraph — The client operated a complex, multi-jurisdictional env…",
+          "type": "text"
+        },
+        {
+          "name": "text_014",
+          "label": "Heading 4 — 1. Establishing a baseline",
+          "type": "string"
+        },
+        {
+          "name": "text_015",
+          "label": "Paragraph — We began with a current-state assessment against ISO 27…",
+          "type": "text"
+        },
+        {
+          "name": "text_016",
+          "label": "Heading 4 — 2. Designing the target state",
+          "type": "string"
+        },
+        {
+          "name": "text_017",
+          "label": "Paragraph — We defined a target security architecture, operating mo…",
+          "type": "text"
+        },
+        {
+          "name": "image_001",
+          "label": "Image — services",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_001",
+          "label": "Image alternative text — services",
+          "type": "string"
+        },
+        {
+          "name": "image_002",
+          "label": "Image — services",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_002",
+          "label": "Image alternative text — services",
+          "type": "string"
+        },
+        {
+          "name": "image_003",
+          "label": "Image — services",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_003",
+          "label": "Image alternative text — services",
+          "type": "string"
+        }
+      ]
+    },
+    "sign-in": {
+      "label": "Sign In",
+      "path": "html/sign-in.html",
+      "group": "other",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "link_001",
+          "label": "Link destination — index.html",
+          "type": "string"
+        },
+        {
+          "name": "image_001",
+          "label": "Image — logo-dark",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_001",
+          "label": "Image alternative text — logo-dark",
+          "type": "string"
+        },
+        {
+          "name": "link_002",
+          "label": "Link destination — javascript:void(0)",
+          "type": "string"
+        },
+        {
+          "name": "text_001",
+          "label": "Text — Sign In",
+          "type": "string"
+        },
+        {
+          "name": "image_002",
+          "label": "Image — google",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_002",
+          "label": "Image alternative text — google",
+          "type": "string"
+        },
+        {
+          "name": "link_003",
+          "label": "Link destination — javascript:void(0)",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Text — Sign In",
+          "type": "string"
+        },
+        {
+          "name": "image_003",
+          "label": "Image — google",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_003",
+          "label": "Image alternative text — google",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Paragraph — OR",
+          "type": "string"
+        },
+        {
+          "name": "placeholder_001",
+          "label": "Form placeholder — Email",
+          "type": "string"
+        },
+        {
+          "name": "placeholder_002",
+          "label": "Form placeholder — Password",
+          "type": "string"
+        },
+        {
+          "name": "link_004",
+          "label": "Link destination — index.html",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Text — Sign In",
+          "type": "string"
+        },
+        {
+          "name": "link_005",
+          "label": "Link destination — #",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Text — Forget Password?",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — Not a member yet? Sign Up",
           "type": "rich-text"
         }
       ]
