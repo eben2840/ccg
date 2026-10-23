@@ -1814,6 +1814,194 @@
           "type": "text"
         }
       ]
+    },
+    "financial-services": {
+      "label": "Financial Services",
+      "path": "html/financial-services.html",
+      "group": "industries",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Navigating financial transformation with strategic insi…",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Financial Services",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Heading 2 — Financial Services Practice",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Paragraph — The financial services industry is experiencing unprece…",
+          "type": "text"
+        },
+        {
+          "name": "text_005",
+          "label": "Paragraph — Our expertise spans the full financial services value c…",
+          "type": "text"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — Whether you are pursuing digital transformation, regula…",
+          "type": "text"
+        }
+      ]
+    },
+    "healthcare": {
+      "label": "Healthcare",
+      "path": "html/healthcare.html",
+      "group": "industries",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Advancing healthcare through innovation, operational ex…",
+          "type": "text"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Healthcare",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Heading 2 — Healthcare Practice",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Paragraph — The healthcare industry is undergoing profound transfor…",
+          "type": "text"
+        },
+        {
+          "name": "text_005",
+          "label": "Paragraph — Our expertise spans the entire healthcare value chain, …",
+          "type": "text"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — Whether you are pursuing digital health transformation,…",
+          "type": "text"
+        }
+      ]
+    },
+    "infrastructure": {
+      "label": "Infrastructure",
+      "path": "html/Infrastructure.html",
+      "group": "industries",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Building resilient infrastructure for sustainable econo…",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Infrastructure",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Heading 2 — Infrastructure Practice",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Paragraph — Infrastructure development is critical to economic grow…",
+          "type": "text"
+        },
+        {
+          "name": "text_005",
+          "label": "Paragraph — Our expertise spans transportation, energy, water, tele…",
+          "type": "text"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — Whether you are developing new infrastructure, moderniz…",
+          "type": "text"
+        }
+      ]
+    },
+    "logistics": {
+      "label": "Logistics",
+      "path": "html/logistics.html",
+      "group": "industries",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Optimizing supply chain efficiency and enabling seamles…",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Logistics",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Heading 2 — Logistics Practice",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Paragraph — The logistics and supply chain industry is experiencing…",
+          "type": "text"
+        },
+        {
+          "name": "text_005",
+          "label": "Paragraph — Our expertise spans the entire logistics value chain, f…",
+          "type": "text"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — Whether you are pursuing supply chain transformation, n…",
+          "type": "text"
+        }
+      ]
     }
   }
 }
