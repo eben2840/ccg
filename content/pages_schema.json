@@ -4223,6 +4223,352 @@
           "type": "rich-text"
         }
       ]
+    },
+    "sign-up": {
+      "label": "Sign Up",
+      "path": "html/sign-up.html",
+      "group": "other",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "link_001",
+          "label": "Link destination — index.html",
+          "type": "string"
+        },
+        {
+          "name": "image_001",
+          "label": "Image — logo-dark",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_001",
+          "label": "Image alternative text — logo-dark",
+          "type": "string"
+        },
+        {
+          "name": "link_002",
+          "label": "Link destination — javascript:void(0)",
+          "type": "string"
+        },
+        {
+          "name": "text_001",
+          "label": "Text — Sign In",
+          "type": "string"
+        },
+        {
+          "name": "image_002",
+          "label": "Image — google",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_002",
+          "label": "Image alternative text — google",
+          "type": "string"
+        },
+        {
+          "name": "link_003",
+          "label": "Link destination — javascript:void(0)",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Text — Sign In",
+          "type": "string"
+        },
+        {
+          "name": "image_003",
+          "label": "Image — google",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_003",
+          "label": "Image alternative text — google",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Paragraph — OR",
+          "type": "string"
+        },
+        {
+          "name": "placeholder_001",
+          "label": "Form placeholder — Name",
+          "type": "string"
+        },
+        {
+          "name": "placeholder_002",
+          "label": "Form placeholder — Email",
+          "type": "string"
+        },
+        {
+          "name": "placeholder_003",
+          "label": "Form placeholder — Password",
+          "type": "string"
+        },
+        {
+          "name": "link_004",
+          "label": "Link destination — sign-in.html",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Text — Sign Up",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Paragraph — By creating an account, you agree with our Privacy and …",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — Already have an account? Sign In",
+          "type": "rich-text"
+        }
+      ]
+    },
+    "terms-and-conditions": {
+      "label": "Terms and Conditions",
+      "path": "html/terms-and-conditions.html",
+      "group": "other",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "background_001",
+          "label": "Background image — privacy-policy-banner.jpg",
+          "type": "image"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Understand the Rules & Guidelines Before Using Our Serv…",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Terms & Conditions",
+          "type": "string"
+        },
+        {
+          "name": "link_001",
+          "label": "Link destination — javascript:void(0)",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Paragraph — Coastline Citadel Group and its affiliates (\"Coastline …",
+          "type": "text"
+        },
+        {
+          "name": "text_004",
+          "label": "Paragraph — By accessing and using this Site, you agree to these Te…",
+          "type": "text"
+        },
+        {
+          "name": "text_005",
+          "label": "Heading 4 — 1. Copyrights",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — All content and functionality on the Site, including te…",
+          "type": "text"
+        },
+        {
+          "name": "text_007",
+          "label": "Heading 4 — 2. Trademarks",
+          "type": "string"
+        },
+        {
+          "name": "text_008",
+          "label": "Paragraph — The trademarks, service marks, designs, and logos (coll…",
+          "type": "text"
+        },
+        {
+          "name": "text_009",
+          "label": "Heading 4 — 3. Use of Site Content",
+          "type": "string"
+        },
+        {
+          "name": "text_010",
+          "label": "Paragraph — Coastline Citadel Group hereby grants you a limited, no…",
+          "type": "text"
+        },
+        {
+          "name": "text_011",
+          "label": "Paragraph — Prohibited Actions:",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_012",
+          "label": "List item — Scraping: You may not crawl, scrape, or extract data fr…",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_013",
+          "label": "List item — AI Training: You may not use the Site Content to develo…",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_014",
+          "label": "List item — Mirroring: You may not \"mirror\" any portion of this Sit…",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_015",
+          "label": "Heading 4 — 4. User Postings",
+          "type": "string"
+        },
+        {
+          "name": "text_016",
+          "label": "Paragraph — You acknowledge that Coastline Citadel Group shall own …",
+          "type": "text"
+        },
+        {
+          "name": "text_017",
+          "label": "Heading 4 — 5. Notices of Infringement",
+          "type": "string"
+        },
+        {
+          "name": "text_018",
+          "label": "Paragraph — Coastline Citadel Group prohibits the posting of inform…",
+          "type": "text"
+        },
+        {
+          "name": "text_019",
+          "label": "List item — Identification of the copyrighted work.",
+          "type": "string"
+        },
+        {
+          "name": "text_020",
+          "label": "List item — Identification of the allegedly infringing material on …",
+          "type": "string"
+        },
+        {
+          "name": "text_021",
+          "label": "List item — Your contact information.",
+          "type": "string"
+        },
+        {
+          "name": "text_022",
+          "label": "List item — A statement of good faith belief that the use is unauth…",
+          "type": "string"
+        },
+        {
+          "name": "text_023",
+          "label": "List item — A statement, under penalty of perjury, that the notific…",
+          "type": "string"
+        },
+        {
+          "name": "text_024",
+          "label": "Paragraph — Contact for Notices: Legal Department, Coastline Citade…",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_025",
+          "label": "Heading 4 — 6. Disclaimers",
+          "type": "string"
+        },
+        {
+          "name": "text_026",
+          "label": "Paragraph — THE CONTENT ON THIS SITE IS PROVIDED WITH THE UNDERSTAN…",
+          "type": "text"
+        },
+        {
+          "name": "text_027",
+          "label": "Paragraph — ALL CONTENT IS PROVIDED \"AS IS,\" WITHOUT WARRANTY OF AN…",
+          "type": "text"
+        },
+        {
+          "name": "text_028",
+          "label": "Heading 4 — 7. Indemnification",
+          "type": "string"
+        },
+        {
+          "name": "text_029",
+          "label": "Paragraph — You hereby indemnify, defend, and hold harmless Coastli…",
+          "type": "text"
+        },
+        {
+          "name": "text_030",
+          "label": "Heading 4 — 8. Third-Party Websites & Providers",
+          "type": "string"
+        },
+        {
+          "name": "text_031",
+          "label": "Paragraph — We may provide links to third-party websites. Coastline…",
+          "type": "text"
+        },
+        {
+          "name": "text_032",
+          "label": "Heading 4 — 9. Governing Law; Jurisdiction",
+          "type": "string"
+        },
+        {
+          "name": "text_033",
+          "label": "Paragraph — These Terms are governed by the laws of the State of Wy…",
+          "type": "text"
+        }
+      ]
+    },
+    "not-found": {
+      "label": "404 Page",
+      "path": "html/404.html",
+      "group": "other",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "image_001",
+          "label": "Image — 404",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_001",
+          "label": "Image alternative text — 404",
+          "type": "string"
+        },
+        {
+          "name": "text_001",
+          "label": "Heading 2 — Page not found",
+          "type": "string"
+        },
+        {
+          "name": "link_001",
+          "label": "Link destination — index.html",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Text — Back to Home",
+          "type": "string"
+        }
+      ]
     }
   }
 }

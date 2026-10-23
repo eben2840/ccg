@@ -1,0 +1,23 @@
+{
+  "page_title": "Coastline Citadel Group",
+  "meta_description": "",
+  "link_001": "index.html",
+  "image_001": "/assets/images/logos/logo-dark.svg",
+  "image_alt_001": "logo-dark",
+  "link_002": "javascript:void(0)",
+  "text_001": "Sign\r\n                In ",
+  "image_002": "/assets/images/svgs/icon-google.svg",
+  "image_alt_002": "google",
+  "link_003": "javascript:void(0)",
+  "text_002": "Sign\r\n                In ",
+  "image_003": "/assets/images/svgs/icon-github.svg",
+  "image_alt_003": "google",
+  "text_003": "OR",
+  "placeholder_001": "Name",
+  "placeholder_002": "Email",
+  "placeholder_003": "Password",
+  "link_004": "sign-in.html",
+  "text_004": "\r\n                Sign Up\r\n              ",
+  "text_005": "By creating an account, you agree with our <a\r\n                class=\"text-dark\" href=\"privacy-policy.html\">Privacy</a> and <a class=\"text-dark\" href=\"privacy-policy.html\">Policy</a>.",
+  "text_006": "Already have an account? <a class=\"text-dark\" href=\"sign-in.html\">Sign\r\n                In</a>\r\n            "
+}
