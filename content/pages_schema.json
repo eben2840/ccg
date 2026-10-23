@@ -2002,6 +2002,389 @@
           "type": "text"
         }
       ]
+    },
+    "p-p": {
+      "label": "P&P",
+      "path": "html/p&p.html",
+      "group": "industries",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — We design robust security programmes that protect criti…",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Packaging & Paper",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Text — 01",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Text — Services",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Heading 2 — What we secure about Packaging & Paper",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — Across every region and substrate, we empower packaging…",
+          "type": "text"
+        },
+        {
+          "name": "text_007",
+          "label": "Heading 2 — 45 +",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_008",
+          "label": "Heading 4 — Presence in global markets",
+          "type": "string"
+        },
+        {
+          "name": "text_009",
+          "label": "Paragraph — Expanding reach across international regions with local…",
+          "type": "string"
+        },
+        {
+          "name": "text_010",
+          "label": "Heading 2 — 15 M",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_011",
+          "label": "Heading 4 — In security investments",
+          "type": "string"
+        },
+        {
+          "name": "text_012",
+          "label": "Paragraph — Supporting clients to direct investment into the contro…",
+          "type": "string"
+        },
+        {
+          "name": "text_013",
+          "label": "Heading 2 — 158 +",
+          "type": "rich-text"
+        },
+        {
+          "name": "text_014",
+          "label": "Heading 4 — Trusted security partnerships",
+          "type": "string"
+        },
+        {
+          "name": "text_015",
+          "label": "Paragraph — Helping organisations navigate evolving threats and reg…",
+          "type": "string"
+        }
+      ]
+    },
+    "audits": {
+      "label": "Audits",
+      "path": "html/audit.html",
+      "group": "services",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "background_001",
+          "label": "Background image — premium_photo-1681400054984-c20bf5879c3b.avif",
+          "type": "image"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Innovation drives the internal audit function of the fu…",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Internal Audit",
+          "type": "string"
+        },
+        {
+          "name": "link_001",
+          "label": "Link destination — javascript:void(0)",
+          "type": "string"
+        },
+        {
+          "name": "image_001",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_001",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_002",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_002",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_003",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_003",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_004",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_004",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_005",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_005",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_006",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_006",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_007",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_007",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_008",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_008",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_009",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_009",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_010",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_010",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_011",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_011",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_012",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_012",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_013",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_013",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "image_014",
+          "label": "Image — partners",
+          "type": "image"
+        },
+        {
+          "name": "image_alt_014",
+          "label": "Image alternative text — partners",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Text — 01",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Text — Audit",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Heading 2 — Internal Audit Overview",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — 1. Purpose of the Internal Audit Function The Internal …",
+          "type": "rich-text"
+        }
+      ]
+    },
+    "strategy-corporate-finance": {
+      "label": "Strategy & Corporate Finance",
+      "path": "html/strategy-corporate-finance.html",
+      "group": "services",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Driving strategic growth and financial excellence for s…",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Strategy & Corporate",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Text — 01",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Text — Strategy & Corporate Finance",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Heading 2 — Strategy & Corporate Finance Overview",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — 1. Strategic Planning and Execution At Coastline Citade…",
+          "type": "rich-text"
+        }
+      ]
+    },
+    "risk-resilience": {
+      "label": "Risk & Resilience",
+      "path": "html/risk-resilience.html",
+      "group": "services",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Building robust risk management frameworks for organiza…",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Risk & Resilience",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Text — 01",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Text — Risk & Resilience",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Heading 2 — Risk & Resilience Overview",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — 1. Enterprise Risk Management Framework At Coastline Ci…",
+          "type": "rich-text"
+        }
+      ]
     }
   }
 }
