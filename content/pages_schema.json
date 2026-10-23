@@ -2385,6 +2385,199 @@
           "type": "rich-text"
         }
       ]
+    },
+    "business-transformation": {
+      "label": "Business Transformation",
+      "path": "html/business-transformation.html",
+      "group": "services",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "background_001",
+          "label": "Background image — premium_photo-1681400054984-c20bf5879c3b.avif",
+          "type": "image"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Driving fundamental change to achieve sustainable compe…",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Business Transformation",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Text — 01",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Text — Business Transformation",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Heading 2 — Business Transformation",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — 1. Strategic Transformation At Coastline Citadel Group,…",
+          "type": "rich-text"
+        }
+      ]
+    },
+    "ai-implementation": {
+      "label": "AI Implementation",
+      "path": "html/ai-implementation.html",
+      "group": "services",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Transforming businesses through intelligent AI solution…",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — AI Implementation",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Text — 01",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Text — Risk & Resilience",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Heading 2 — AI Implementation Overview",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — 1. AI Strategy and Roadmap Development At Coastline Cit…",
+          "type": "rich-text"
+        }
+      ]
+    },
+    "people-organizational-performance": {
+      "label": "People & Organizational Performance",
+      "path": "html/people-organizational-performance.html",
+      "group": "services",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Empowering organizations to build high-performing teams…",
+          "type": "string"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — People & Organizational",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Text — 01",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Text — Risk & Resilience",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Heading 2 — People & Organizational Performance Overview",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — 1. Talent Strategy and Management At Coastline Citadel …",
+          "type": "rich-text"
+        }
+      ]
+    },
+    "technology": {
+      "label": "Technology",
+      "path": "html/technology.html",
+      "group": "services",
+      "fields": [
+        {
+          "name": "page_title",
+          "label": "Page title",
+          "type": "string"
+        },
+        {
+          "name": "meta_description",
+          "label": "Search engine description",
+          "type": "text"
+        },
+        {
+          "name": "text_001",
+          "label": "Paragraph — Enabling digital transformation through innovative tech…",
+          "type": "text"
+        },
+        {
+          "name": "text_002",
+          "label": "Heading 1 — Technology",
+          "type": "string"
+        },
+        {
+          "name": "text_003",
+          "label": "Text — 01",
+          "type": "string"
+        },
+        {
+          "name": "text_004",
+          "label": "Text — Risk & Resilience",
+          "type": "string"
+        },
+        {
+          "name": "text_005",
+          "label": "Heading 2 — Technology Overview",
+          "type": "string"
+        },
+        {
+          "name": "text_006",
+          "label": "Paragraph — 1. Digital Transformation Strategy At Coastline Citadel…",
+          "type": "rich-text"
+        }
+      ]
     }
   }
 }
